@@ -2,5 +2,5 @@
 
 first ever repository very cool
 
-Basic test to show how Git and GitHub works
+Basic test to show how Git and GitHub work super cool
 
